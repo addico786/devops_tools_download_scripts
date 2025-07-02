@@ -5,7 +5,7 @@ sudo chmod +x jenkins.sh
 ./docker.sh
 
 ```
-## for jenkins
+## For jenkins
 ```
 curl -LO https://raw.githubusercontent.com/addico786/tools_download_scripts/master/jenkins.sh
 sudo chmod +x jenkins.sh
