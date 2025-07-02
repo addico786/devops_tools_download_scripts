@@ -1,6 +1,6 @@
 echo "################################## installing JAVA ##################################"
 sudo apt update
-sudo apt install fontconfig openjdk-21-jre
+sudo apt install fontconfig openjdk-21-jre -y
 java -version
 echo "################################## JAVA installed succesfully ##################################"
 
@@ -11,7 +11,11 @@ echo "deb [signed-by=/etc/apt/keyrings/jenkins-keyring.asc]" \
   https://pkg.jenkins.io/debian binary/ | sudo tee \
   /etc/apt/sources.list.d/jenkins.list > /dev/null
 sudo apt-get update
-sudo apt-get install jenkins
+sudo apt-get install jenkins -y
 echo "################################## jenkins installed sucessfully ##################################"
+
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
 echo "the above is your temporary password to login to jenkins"
+
+echo "open localhost:8080 in your browser and paste the temporary password"
