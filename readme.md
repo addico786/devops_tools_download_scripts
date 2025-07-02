@@ -12,3 +12,11 @@ sudo chmod +x jenkins.sh
 ./jenkins.sh
 
 ```
+
+## For Terraform
+```
+curl -LO https://raw.githubusercontent.com/addico786/tools_download_scripts/master/terraform.sh
+sudo chmod +x terraform.sh
+./terraform.sh
+
+```
