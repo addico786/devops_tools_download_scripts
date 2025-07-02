@@ -1,4 +1,8 @@
-## For docker, just copy the link and paste in your terminal
+# Hello there fellow DevOps explorer, here you'll find the links to download your required tools.
+## Fork the repo if it was usefull.
+## note: just copy the links and paste it in your terminal 
+
+## For docker
 ```
 curl -LO https://raw.githubusercontent.com/addico786/tools_download_scripts/master/docker.sh
 sudo chmod +x jenkins.sh
