@@ -5,7 +5,7 @@
 ## For docker
 ```
 curl -LO https://raw.githubusercontent.com/addico786/tools_download_scripts/master/docker.sh
-sudo chmod +x jenkins.sh
+sudo chmod +x docker.sh
 ./docker.sh
 
 ```
