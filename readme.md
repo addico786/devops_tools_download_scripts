@@ -4,14 +4,14 @@
 
 ## note: just copy the links and paste it in your terminal 
 
-## For docker
+## For Docker
 ```
 curl -LO https://raw.githubusercontent.com/addico786/tools_download_scripts/master/docker.sh
 sudo chmod +x docker.sh
 ./docker.sh
 
 ```
-## For jenkins
+## For Jenkins
 ```
 curl -LO https://raw.githubusercontent.com/addico786/tools_download_scripts/master/jenkins.sh
 sudo chmod +x jenkins.sh
