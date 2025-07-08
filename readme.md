@@ -2,7 +2,7 @@
 
 ## Fork the repo if it was usefull.
 
-## note: just copy the links and paste it in your terminal 
+## Note: just copy the links and paste it in your terminal 
 
 ## For Docker
 ```
