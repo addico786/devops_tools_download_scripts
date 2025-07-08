@@ -1,5 +1,7 @@
 # Hello there fellow DevOps explorer, here you'll find the links to download your required tools.
+
 ## Fork the repo if it was usefull.
+
 ## note: just copy the links and paste it in your terminal 
 
 ## For docker
@@ -24,9 +26,9 @@ sudo chmod +x terraform.sh
 ./terraform.sh
 
 ```
-## what tools should i add more...??? 
+# what tools should i add more...??? 
 
-# submit your answers below
+## submit your answers below
 ```
 https://addico786.github.io
 
