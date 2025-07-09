@@ -8,3 +8,5 @@ terraform --version
 echo "======================================="
 echo "#################### Terraform Installed ####################"
 echo "======================================="
+sudo rm -rfv terraform.sh
+eho "file removed"
