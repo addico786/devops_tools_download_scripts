@@ -9,4 +9,4 @@ echo "======================================="
 echo "#################### Terraform Installed ####################"
 echo "======================================="
 sudo rm -rfv terraform.sh
-eho "file removed"
+eho "file removed terraform.sh"
