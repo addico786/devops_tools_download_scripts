@@ -26,6 +26,13 @@ sudo chmod +x terraform.sh
 ./terraform.sh
 
 ```
+
+## For Trivy
+```
+curl -LO https://raw.githubusercontent.com/addico786/tools_download_scripts/master/trivy.sh
+sudo chmod +x trivy.sh
+./trivy.sh
+```
 # what tools should i add more...??? 
 
 ## submit your answers at 👇
