@@ -33,6 +33,13 @@ curl -LO https://raw.githubusercontent.com/addico786/tools_download_scripts/mast
 sudo chmod +x trivy.sh
 ./trivy.sh
 ```
+
+## For AWS cli
+```
+curl -LO https://raw.githubusercontent.com/addico786/tools_download_scripts/master/aws_cli.sh
+sudo chmod +x aws_cli.sh
+./aws_cli.sh
+```
 # what tools should i add more...??? 
 
 ## submit your answers at 👇
